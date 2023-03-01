@@ -2,4 +2,6 @@
 *.ipynb_checkpoints
 *.csv
 *.npy
+*.zip
+*/beam/*.txt
 lusee_maps/s2fft
