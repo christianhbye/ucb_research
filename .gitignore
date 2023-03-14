@@ -3,5 +3,7 @@
 *.csv
 *.npy
 *.zip
-*/beam/*.txt
+*/beam/*/*.txt
 lusee_maps/s2fft
+compression/librtlsdr
+compression/pyrtlsdr
